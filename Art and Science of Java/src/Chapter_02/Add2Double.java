@@ -1,7 +1,7 @@
 /**
  * 
  */
-package figure_2_3;
+package Chapter_02;
 
 /**
  * @author Ray
