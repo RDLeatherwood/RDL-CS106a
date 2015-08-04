@@ -7,9 +7,9 @@ public class FeetAndInchesToCentimeters extends ConsoleProgram{
 		println("This program converts Feet & Inches to Centimeters.");
 		int feet = readInt("Enter value in Feet: ");
 		int inches = readInt("Enter value in inches: ");
-		int cm = inches * CENTIMETERS_PER_INCH;
-		int in = feet * INCHES_PER_FOOT;
-		println(feet + "ft " +inches + "in = " + in + cm + "cm");
+		//int cm = inches * CENTIMETERS_PER_INCH;
+		//int in = feet * INCHES_PER_FOOT;
+		//println(feet + "ft " +inches + "in = " + in + cm + "cm");
 		
 	}
 	private static final double CENTIMETERS_PER_INCH = 2.54;
