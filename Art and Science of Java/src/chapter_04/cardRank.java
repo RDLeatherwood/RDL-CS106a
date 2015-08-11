@@ -8,7 +8,7 @@ public class cardRank extends ConsoleProgram {
 		int n = readInt("Enter a number between 1 an 13: ");
 		if (n > 13) {
 			println("Please enter a number between 1 and 13.");
-			run cardRank;
+			
 		} 
 		switch (n) {
 		case 1: println("Ace"); break;
